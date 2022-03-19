@@ -16,3 +16,4 @@ Mein Name ist Yekta S.. Ich bin ein Softwareentwickler aus Deutschland
 </span>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@dec99f27-fb99-42e4-945c-2287c40953ef/7da881fd-ec72-49f1-b67d-8d88513d3a6b.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dec99f27-fb99-42e4-945c-2287c40953ef/0a39b0e5-0581-4288-b582-4ff8283fd505.png" /></a>

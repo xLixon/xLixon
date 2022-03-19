@@ -15,6 +15,4 @@ Mein Name ist Yekta S.. Ich bin ein Softwareentwickler aus Deutschland
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xLixon&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
 </span>
 
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xLixon&layout=compact&theme=dark" />
-</span>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dec99f27-fb99-42e4-945c-2287c40953ef/7da881fd-ec72-49f1-b67d-8d88513d3a6b.png" /></a>
